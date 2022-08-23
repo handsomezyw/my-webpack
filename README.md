@@ -4,11 +4,9 @@
 
 - 支持ts环境
 
-- 已配置ESLint、Prettier，可根据自己代码风格修改
+- 已配置ESLint、Prettier，可根据自己代码风格修改（记得在vscode中安装ESLint、Prettier插件配合使用）
 
 - 可根据你的业务需求自由配置
-
-- 
 
 ### 使用
 

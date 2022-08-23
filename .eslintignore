@@ -1,0 +1,8 @@
+# 忽略eslint检查的文件
+/node_modules/*
+/config/*
+/dist/*
+/test/*
+.eslintrc.js
+.prettierrc.js
+

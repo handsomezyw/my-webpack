@@ -10,7 +10,13 @@
 
 ### 使用
 
-先预编译react、react-dom资源
+安装依赖
+
+```shell
+npm i
+```
+
+预编译react、react-dom资源
 
 ```shell
 npm run dll

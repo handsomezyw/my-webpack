@@ -13,7 +13,10 @@ const devConfig = {
   devtool: "inline-source-map",
   devServer: {
     static: path.resolve(RootProject, "./dist"),
+    // 开启模块热更新
     hot: true,
+    // 监听文件变化
+    watchFiles: "src/**/*",
     historyApiFallback: true, // 当使用HTML5 History API时，index.html页面可能要代替404响应。
   },
 };

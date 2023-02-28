@@ -3,3 +3,4 @@ dist/
 .nyc_output/
 library/
 .DS_Store
+.husky

@@ -111,7 +111,7 @@ module.exports = {
                   "@babel/preset-env",
                   {
                     useBuiltIns: "usage",
-                    corejs: { version: "3.24.1", proposals: true },
+                    corejs: { version: "3.29.0", proposals: true },
                   },
                 ],
                 "@babel/preset-react",
@@ -167,7 +167,7 @@ module.exports = {
                   "@babel/preset-env",
                   {
                     useBuiltIns: "usage",
-                    corejs: { version: "3.24.1", proposals: true },
+                    corejs: { version: "3.29.0", proposals: true },
                   },
                 ],
               ],
